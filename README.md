@@ -2,4 +2,4 @@
 Machine Learning model using titanic dataset.
 The goal of the model is to predict whether a passenger survived the Titanic disaster, given their age, class and a few other features.
 
-![](dtree2.png)
+![](dtree2.PNG)
